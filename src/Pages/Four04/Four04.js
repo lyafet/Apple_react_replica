@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import './Four04.css'
 
 class Four04 extends Component {
 

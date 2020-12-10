@@ -18,8 +18,6 @@ import Four04 from './Pages/Four04/Four04';
 import Mac from './Pages/Mac/Mac';
 import Ipad from './Pages/Ipad/ipad';
 import Music from './Pages/Music/Music';
-import Support from './Pages/Support/Support';
-import Tv from './Pages/Tv/tv';
 import Watch from './Pages/Watch/Watch';
 import Productpage from './Pages/Productpage/Productpage';
 import Youtube from './Component/Youtube/Youtube';
